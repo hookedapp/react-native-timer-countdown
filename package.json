@@ -1,0 +1,8 @@
+{
+  "name": "react-native-timer-countdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hookedapp/react-native-timer-countdown.git",
+  "author": "Adar <14169758+LA@users.noreply.github.com>",
+  "license": "MIT"
+}
